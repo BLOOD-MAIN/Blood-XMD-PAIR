@@ -27,8 +27,8 @@ function randomMegaId(length = 6, numberLength = 4) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-            email: 'palvinkibet46@gmail.com',
-            password: 'caseytech@2030'
+            email: 'fghia2840@Gmail.com',
+            password: 'Bloodxmd234@'
         }).ready;
         console.log('Mega storage initialized.');
         if (!fs.existsSync(credsPath)) {
@@ -113,8 +113,8 @@ router.get('/', async (req, res) => {
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363302677217436@newsletter',
-                                    newsletterName: 'CASEYRHODES TECH 👻',
+                                    newsletterJid: '120363419102725912@newsletter',
+                                    newsletterName: 'BLOOD XMD PAIR',
                                     serverMessageId: 143
                                 }
                             }
@@ -137,7 +137,7 @@ ______________________________
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+https://whatsapp.com/channel/0029Vb5hLc0HltYF7Ebf2S0M
 
 *📚 Learn & Explore More with Tutorials:*
 🪄 YouTube Channel https://www.youtube.com/@caseyrhodes01
@@ -159,8 +159,8 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363302677217436@newsletter',
-                                    newsletterName: 'CASWYRHODES TECH 🍀',
+                                    newsletterJid: '120363419102725912@newsletter',
+                                    newsletterName: 'BLOOD XMD 🍀',
                                     serverMessageId: 143
                                 }
                             }
