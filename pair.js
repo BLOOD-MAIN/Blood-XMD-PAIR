@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363419102725912@newsletter',
-                                    newsletterName: 'BLOOD XMD PAIR',
+                                    newsletterName: '𝐁𝐋𝐎𝐎𝐃 𝐗𝐌𝐃 𝐏𝐀𝐈𝐑 ♻️',
                                     serverMessageId: 143
                                 }
                             }
@@ -133,22 +133,23 @@ ______________________________
 *💪 Empowering Your Experience with Caseyrhodes Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/caseyweb/CASEYRHODES-XMD
+🔗 https://github.com
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029Vb5hLc0HltYF7Ebf2S0M
+*https://chat.whatsapp.com/I3QPd8C6WeWJmVaShYIV3g?mode=ac_t_*
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@caseyrhodes01
+🪄 YouTube Channel https://www.youtube.com
 
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ
+> ᴘᴏᴡᴇʀᴅ ʙʏ ʙʟᴏᴏᴅ xᴍᴅ
 *Together, we build the future of automation! 🚀*
 ______________________________
 
-Use your Session ID Above to Deploy your Bot.
-Check on YouTube Channel for Deployment Procedure(Ensure you have Github Account and Billed Heroku Account First.)
-Don't Forget To Give Star⭐ To My Repo`;
+ඔයාට BLOOD-XMD WHATSAPP BOT DEPLOY කරගන්න අවශයනම්
+ඔබ ලබා ගත් SESSION ID එක BOT OWNER ට SEND කර . 
+OWNER හරහා BOT DEPLOYED කර ගන්න 🫶❤️‍🩹
+BOT OWNER -: +94761332610`;
 
                     await Gifted.sendMessage(
                         Gifted.user.id,
@@ -160,7 +161,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363419102725912@newsletter',
-                                    newsletterName: 'BLOOD XMD 🍀',
+                                    newsletterName: '𝐁𝐋𝐎𝐎𝐃 𝐗𝐌𝐃 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐍 ⚠️',
                                     serverMessageId: 143
                                 }
                             }
