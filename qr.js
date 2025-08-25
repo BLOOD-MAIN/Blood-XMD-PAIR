@@ -15,19 +15,19 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Caseyrhodes MD Bot*
+*💪 Empowering Your Experience with Blood XMD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/caseyweb/CASEYRHODES-XMD
+🔗 https://github.com/caseyweb
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+https://whatsapp.com/channel/0029Vb5hLc0HltYF7Ebf2S0M
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@Caseyrhodes01
+🪄 YouTube Channel https://www.youtube.com
 
-*🥀 Powered by Caseyrhodes MD Bot & Silva Tech Inc 🥀*
+*🥀 Powered by Blood XMD Bot 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
